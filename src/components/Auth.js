@@ -3,7 +3,8 @@ import { signInWithPopup } from "firebase/auth";
 
 export const Auth = () => {
   const signInWithGoogle = async () => {
-    await signInWithPopup(auth, provider);
+    const result = await signInWithPopup(auth, provider);
+    console.log(result);
   };
 
   return (
