@@ -9,7 +9,7 @@ export const Auth = () => {
 
   return (
     <div className="auth">
-      <p>Sign In With Google To Continue</p>
+      <p>Sign In With Google To Continue Please</p>
       <button onClick={signInWithGoogle}>Sign In With Google</button>
     </div>
   );
