@@ -20,11 +20,11 @@ This is a simple chat application built using React and Firebase. The app allows
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/react-firebase-chat.git
+   git clone https://github.com/abaxley2/chat-app.git
    ```
 2. Navigate to the project directory:
    ```
-   cd react-firebase-chat
+   cd chat-app
    ```
 3. Install the dependencies:
    ```
